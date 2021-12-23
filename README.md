@@ -25,7 +25,6 @@ sudo apt-get install openjdk-8-jdk
 sudo apt-get install scala
 ```
 * Modules: ```py4j```, ```numpy```, ```pandas```
-```
 * Spark 3.2.0: Download [here](https://spark.apache.org/downloads.html)
 * Consumer key, consumer secret, access token, access secret: Create a [Twitter Developer account](https://developer.twitter.com/en), get your API keys and put them in [*tweets_stream.py*](https://github.com/DanielDaduyo/tweets_analysis/blob/main/01%20-%20Tweet%20counter/tweets_stream.py)
 
