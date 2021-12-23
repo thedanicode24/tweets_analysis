@@ -2,7 +2,7 @@
 
 The repository currently includes two projects:
 
-### Project 01 - Tweets counter
+### Project 01 - Real-time tweets counter
 Every day there are many highly commented arguments on Twitter becoming trending topics. The aim of the project is to observe in which time slot the most tweets about a chosen topic are sent.
 
 Here's an example of output:
@@ -14,5 +14,8 @@ Within every TV show, there are always people and characters who are highly comm
 Here's an example of output:
 ![GFVIP_output](https://github.com/DanielDaduyo/Tweets_Analysis/blob/main/02%20-%20Who%20is%20the%20most%20tweeted%3F/output/Amici21_12_19_sing.jpg)
 
+## Requisites
+* CONSUMER KEY, CONSUMER SECRET, ACCESS TOKEN, ACCESS SECRET. Create a [Twitter Developer account](https://developer.twitter.com/en) and get your API keys.
+
 ## Reference
-Recommended course: [ProfessionAI](https://www.profession.ai)
+Recommended course: [ProfessionAI](https://www.profession.ai) (Italian)
