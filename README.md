@@ -2,7 +2,7 @@
 
 The repository currently includes two projects:
 
-### Project 01 - Real-time tweets counter
+### Project 01 - Real-time tweet counter
 Every day there are many highly commented arguments on Twitter becoming trending topics. The aim of the project is to observe in which time slot the most tweets about a chosen topic are sent.
 
 Here's an example of output:
