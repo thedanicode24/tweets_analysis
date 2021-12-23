@@ -28,5 +28,5 @@ sudo apt-get install scala
 * Consumer key, consumer secret, access token, access secret: Create a [Twitter Developer account](https://developer.twitter.com/en), get your API keys and put them in [tweets_stream.py](https://github.com/DanielDaduyo/tweets_analysis/blob/main/01%20-%20Real-time%20tweet%20counter/tweets_stream.py).
 
 ## References
-* Recommended courses: [ProfessionAI](https://www.profession.ai) (Italian)
-* You can find me on [Twitter](https://twitter.com/DaniDaduyo)
+* Recommended courses: [ProfessionAI](https://www.profession.ai) (Italian).
+* You can find me on [Twitter](https://twitter.com/DaniDaduyo).
