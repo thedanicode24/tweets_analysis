@@ -17,9 +17,9 @@ Here's an example of output:
 ## Requirements
 * Python 3.7.3 or greater
 * Java Development Kit 8
-'''''''bash
+```bash
 sudo apt-get install openjdk-8-jdk
-'''''''
+```
 * Scala
 * Consumer key, consumer secret, access token, access secret: Create a [Twitter Developer account](https://developer.twitter.com/en), get your API keys and put them in [*tweets_stream.py*](https://github.com/DanielDaduyo/tweets_analysis/blob/main/01%20-%20Tweet%20counter/tweets_stream.py)
 
