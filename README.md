@@ -1,4 +1,4 @@
-# Live Twitter Analysis
+# Live Twitter Analysis with PySpark
 This repository includes projects about real-time analysis of tweets.
 
 ### Project 01 - Real-time tweet counter
