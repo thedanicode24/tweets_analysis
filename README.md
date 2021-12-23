@@ -1,6 +1,5 @@
-# Twitter Analysis
-
-The repository currently includes two projects:
+# Live Twitter Analysis
+This repository includes projects about real-time analysis of tweets.
 
 ### Project 01 - Real-time tweet counter
 Every day there are many highly commented arguments on Twitter becoming trending topics. The aim of the project is to observe in which time slot the most tweets about a chosen topic are sent.
@@ -24,9 +23,9 @@ sudo apt-get install openjdk-8-jdk
 ```bash
 sudo apt-get install scala
 ```
-* Libraries: ```py4j```, ```numpy``` (project 01), ```pandas```, ```matplotlib```, ```seaborn``` (project 02)
-* Spark 3.2.0 or greater: Download [here](https://spark.apache.org/downloads.html)
-* Consumer key, consumer secret, access token, access secret: Create a [Twitter Developer account](https://developer.twitter.com/en), get your API keys and put them in [*tweets_stream.py*](https://github.com/DanielDaduyo/tweets_analysis/blob/main/01%20-%20Real-time%20tweet%20counter/tweets_stream.py)
+* Libraries: ```py4j```, ```numpy``` (project 01), ```pandas```, ```matplotlib```, ```seaborn``` (project 02).
+* Spark 3.2.0 or greater: Download [here](https://spark.apache.org/downloads.html).
+* Consumer key, consumer secret, access token, access secret: Create a [Twitter Developer account](https://developer.twitter.com/en), get your API keys and put them in [*tweets_stream.py*](https://github.com/DanielDaduyo/tweets_analysis/blob/main/01%20-%20Real-time%20tweet%20counter/tweets_stream.py).
 
 ## Reference
-Recommended course: [ProfessionAI](https://www.profession.ai) (Italian)
+Recommended courses: [ProfessionAI](https://www.profession.ai) (Italian)
