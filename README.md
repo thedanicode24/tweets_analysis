@@ -6,7 +6,7 @@ The repository currently includes two projects:
 Every day there are many highly commented arguments on Twitter becoming trending topics. The aim of the project is to observe in which time slot the most tweets about a chosen topic are sent.
 
 Here's an example of output:
-![hawkeye_output](https://github.com/DanielDaduyo/Tweets_Analysis/blob/main/01%20-%20Tweet%20counter/output/hawkeye.jpg)
+![hawkeye_output](https://github.com/DanielDaduyo/tweets_analysis/blob/main/01%20-%20Real-time%20tweet%20counter/output/hawkeye.jpg)
 
 ### Project 02 - Who is the most tweeted?
 Within every TV show, there are always people and characters who are highly commented on Twitter. The aim of the project is to create a ranking of the cast of the chosen show based on the amount of tweets about them within the official hashtag.
