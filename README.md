@@ -1,4 +1,4 @@
-# Tweets Analysis
+# Twitter Analysis
 
 The repository currently includes two projects:
 
