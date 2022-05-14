@@ -11,7 +11,7 @@ Here's an example of output:
 Within every TV show, there are always people and characters who are highly commented on Twitter. The aim of the project is to create a ranking of the cast of the chosen show based on the amount of tweets about them within the official hashtag.
 
 Here's an example of output:
-![GFVIP_output](https://github.com/DanielDaduyo/tweets_analysis/blob/main/02%20-%20Who%20is%20the%20most%20tweeted%3F/output/GFVIP_2021_12_19_cont.jpg)
+![GFVIP_output](https://github.com/DanielDaduyo/tweets_analysis/blob/main/02%20-%20Who%20is%20the%20most%20tweeted%3F/output/Eurovision_after.jpg)
 
 ## Requirements
 * Python 3.7.3 or greater
